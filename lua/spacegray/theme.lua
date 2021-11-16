@@ -126,8 +126,8 @@ function M.setup()
       TSPunctBracket = { fg = colors.bluegray },
       TSPunctSpecial = { fg = colors.blue },
       TSStringRegex = { fg = colors.green },
-      TSFuncMacro = { fg = colors.lightblue },
-      TSNamespace = { fg = colors.blue }
+      TSFuncMacro = { fg = colors.blue },
+      TSNamespace = { fg = colors.lightblue }
     },
   }
 
